@@ -175,9 +175,9 @@ CookieAssistant.launch = function () {
           notify_7: "Download here",
 
           // menu
-          menu_header: "Basic Assits",
-          menu_header_1: "Advanced Assits",
-          menu_header_2: "Special Assits",
+          menu_header: "Basic Assists",
+          menu_header_1: "Advanced Assists",
+          menu_header_2: "Special Assists",
           menu_header_3: "Misc",
           menu_autoClickBigCookie_play_SE: "Play Click SE",
           menu_autoClickBigCookie_mute_SE: "Mute Click SE",
